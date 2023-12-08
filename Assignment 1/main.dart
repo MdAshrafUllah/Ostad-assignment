@@ -10,15 +10,17 @@ void main() {
   Teacher teacher = Teacher("Mrs. Smith", 35, "456 Oak St", teacherCourses);
 
   // Display information using displayRole() method
+  print("Student Information:");
   student.displayRole();
   print("Name: ${student.name}");
   print("Age: ${student.age}");
   print("Address: ${student.address}");
   print("Average Score: ${student.calculateAverageScore().toStringAsFixed(2)}\n");
 
+  print("Teacher Information:");
   teacher.displayRole();
   print("Name: ${teacher.name}");
-  print("Age: $teacher.age}");
+  print("Age: ${teacher.age}");
   print("Address: ${teacher.address}");
   teacher.displayCoursesTaught();
 }
