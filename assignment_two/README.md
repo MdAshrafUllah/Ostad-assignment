@@ -1,16 +1,8 @@
-# assignment_two
+# assignment 2
 
-A new Flutter project.
+For testing, I didn't remove the device preview package. So, You can easily continue.
 
-## Getting Started
+https://github-production-user-asset-6210df.s3.amazonaws.com/96839511/295855202-5f9dd0b1-209a-4334-a8a7-4a1622eb0b48.mp4
 
-This project is a starting point for a Flutter application.
+https://github.com/MdAshrafUllah/Ostad-assignment/assets/96839511/b2df9c02-bc4d-4fa7-8598-f74e1e4a54ca
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
