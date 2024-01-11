@@ -56,7 +56,6 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 
   void _calculateTotalAmount() {
-    totalAmount = 0;
     for (int i = 0; i < postsManage.length; i++) {
       totalAmount += multiply(itemCounts[i], postsManage[i]['price']);
     }
