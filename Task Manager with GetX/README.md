@@ -1,16 +1,5 @@
-# taskmanager
+# Task Manager Assignment with GetX
 
-A new Flutter project.
+Use of the whole Application.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/MdAshrafUllah/Ostad-assignment/assets/96839511/7d612354-56d0-42aa-b0a3-a4cba2b13593.mp4
