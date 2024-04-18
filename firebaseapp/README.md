@@ -1,16 +1,10 @@
-# firebaseapp
+# Firebase Assignment
 
-A new Flutter project.
+https://github.com/MdAshrafUllah/Ostad-assignment/assets/96839511/ca53b792-06f6-4001-93cc-499834a93b14
 
-## Getting Started
+## Firebase Screenshot
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/MdAshrafUllah/Ostad-assignment/assets/96839511/2172eb91-a219-413e-8e01-747e7381eca0" >
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/MdAshrafUllah/Ostad-assignment/assets/96839511/6f8771cb-5530-4d39-93f3-5faa1efd9715" >
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
