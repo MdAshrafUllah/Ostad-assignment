@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "670789281202",
+    "project_id": "rentcount-85e1f",
+    "storage_bucket": "rentcount-85e1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670789281202:android:5939883e9028de7c6e70ab",
+        "android_client_info": {
+          "package_name": "com.example.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670789281202-c4hhcbudh74emj0vl2oj9jahoj95nsos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm2ECIhkdvVwrJIJ8OvMWo4X7cwZk-c_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670789281202-c4hhcbudh74emj0vl2oj9jahoj95nsos.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670789281202:android:bb13dd946be894136e70ab",
+        "android_client_info": {
+          "package_name": "com.example.rentapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670789281202-c4hhcbudh74emj0vl2oj9jahoj95nsos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm2ECIhkdvVwrJIJ8OvMWo4X7cwZk-c_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670789281202-c4hhcbudh74emj0vl2oj9jahoj95nsos.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
