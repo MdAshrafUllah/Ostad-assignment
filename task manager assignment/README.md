@@ -1,5 +1,10 @@
 # Task Manager Assignment
 
-Use of the whole Application.
+# Task Manager Assignment
 
-https://github.com/MdAshrafUllah/Ostad-assignment/assets/96839511/7d612354-56d0-42aa-b0a3-a4cba2b13593.mp4
+#### Here Ui is the Same But the Code is more organized.
+
+[watch the video](https://github.com/MdAshrafUllah/Ostad-assignment/blob/main/Task%20Manager%20with%20GetX/output/output.mp4)
+
+<img src="https://github.com/MdAshrafUllah/Ostad-assignment/blob/main/Task%20Manager%20with%20GetX/output/all.png">
+
